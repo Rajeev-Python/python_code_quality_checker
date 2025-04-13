@@ -4,7 +4,7 @@ import json
 from analyzer.repo_scanner import get_python_files  # Function to retrieve Python files from a repository
 from analyzer.linter_runner import run_flake8  # Function to run Flake8 linter on a file
 from analyzer.complexity_checker import get_file_complexity  # Function to calculate code complexity
-from analyzer.suggester import get_suggestions  # Function to generate suggestions based on linter issues
+from analyzer.suggester import generate_suggestions  # Function to generate suggestions based on linter issues
 from analyzer.scorer import calculate_file_score  # Function to calculate a score for a file based on issues and complexity
 
 # Function to analyze a Python repository for code quality
@@ -35,7 +35,7 @@ def analyze_repo(repo_path, output_path="report"):
         # Calculate complexity metrics for the file
         complexity_metrics = get_file_complexity(code)
         # Generate suggestions based on linter issues
-        suggestions = get_suggestions(linter_issues)
+        suggestions = generate_suggestions(linter_issues)
         # Calculate the overall score for the file
         score = calculate_file_score(linter_issues, complexity_metrics)
 
@@ -81,7 +81,7 @@ def write_markdown_report(report, output_path):
     """
     # Define the path for the Markdown report
     md_path = os.path.join(output_path, "report.md")
-    with open(md_path, "w") as md:
+    with open(md_path, "w", encoding="utf-8") as md:  # Explicitly set encoding to 'utf-8'
         # Write the report header
         md.write(f"# 🧪 Code Quality Report\n\n")
         md.write(f"**Files Analyzed**: {report['summary']['files_analyzed']}\n\n")

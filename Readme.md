@@ -56,6 +56,22 @@ python main.py /path/to/your/python/project
 ```bash
 streamlit run streamlit_app.py
 ```
+### 5. Running Test
+
+- The tests folder contains unit tests for all modules in the analyzer folder. Each test file corresponds to a module and includes test cases for its functions.
+
+Run All Tests
+To run all tests, use the following command:
+
+`python -m unittest discover -s tests`
+
+Run a Specific Test File
+To run a specific test file, use:
+`python -m unittest tests.<test_file_name>`
+
+For example:
+
+`python -m unittest tests.test_complexity_checker`
 
 ---
 

@@ -1,0 +1,6 @@
+analyzer/__pycache__/__init__.cpython-39.pyc
+analyzer/__pycache__/complexity_checker.cpython-39.pyc
+analyzer/__pycache__/linter_runner.cpython-39.pyc
+analyzer/__pycache__/repo_scanner.cpython-39.pyc
+analyzer/__pycache__/scorer.cpython-39.pyc
+analyzer/__pycache__/suggester.cpython-39.pyc

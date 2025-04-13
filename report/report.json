@@ -1,0 +1,1280 @@
+{
+    "summary": {
+        "files_analyzed": 157,
+        "overall_score": 71.73
+    },
+    "details": [
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\birthDateToCurrentAge.py",
+            "linter_issues": 11,
+            "complexity_score": 85.0,
+            "total_score": 63.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Alarm clock\\alarm_clock.py",
+            "linter_issues": 83,
+            "complexity_score": 90.0,
+            "total_score": 40.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\All_links_from_given_webpage\\get_links.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Ascii_art\\make_art.py",
+            "linter_issues": 6,
+            "complexity_score": 87.5,
+            "total_score": 75.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\AudioBook\\Audio-book.py",
+            "linter_issues": 17,
+            "complexity_score": 100,
+            "total_score": 66,
+            "suggestions": [
+                "Fix indentation issues to maintain consistent style and readability."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Baidu_POI_crawl\\main.py",
+            "linter_issues": 1,
+            "complexity_score": 90.0,
+            "total_score": 88.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Baidu_POI_crawl\\util.py",
+            "linter_issues": 8,
+            "complexity_score": 75.0,
+            "total_score": 59.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Battery_notification\\battery.py",
+            "linter_issues": 4,
+            "complexity_score": 100,
+            "total_score": 92,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Billing_system\\biling_system.py",
+            "linter_issues": 287,
+            "complexity_score": 73.88888888888889,
+            "total_score": 23.888888888888886,
+            "suggestions": [
+                "Fix indentation issues to maintain consistent style and readability.",
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Bouncing_ball_simulator\\ball_bounce.py",
+            "linter_issues": 51,
+            "complexity_score": 83.75,
+            "total_score": 33.75,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Calculate_age\\calculate.py",
+            "linter_issues": 1,
+            "complexity_score": 77.5,
+            "total_score": 75.5,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Captcha_Genrator\\Captcha_Genrator.py",
+            "linter_issues": 47,
+            "complexity_score": 90.0,
+            "total_score": 40.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\capture_screenshot\\screenshot.py",
+            "linter_issues": 9,
+            "complexity_score": 100,
+            "total_score": 82,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Capture_Video_Frames\\capture_video_frames.py",
+            "linter_issues": 3,
+            "complexity_score": 88.33333333333333,
+            "total_score": 82.33333333333333,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\cat_command\\cat.py",
+            "linter_issues": 11,
+            "complexity_score": 91.42857142857143,
+            "total_score": 69.42857142857143,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\chatbot\\bot.py",
+            "linter_issues": 9,
+            "complexity_score": 66.25,
+            "total_score": 48.25,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\chatbot\\simple-bot.py",
+            "linter_issues": 3,
+            "complexity_score": 92.5,
+            "total_score": 86.5,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Check_website_connectivity\\check_connectivity.py",
+            "linter_issues": 0,
+            "complexity_score": 80.0,
+            "total_score": 80.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\cli_proxy_tester\\cli.py",
+            "linter_issues": 0,
+            "complexity_score": 94.0,
+            "total_score": 94.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\cli_proxy_tester\\proxytest.py",
+            "linter_issues": 2,
+            "complexity_score": 83.0,
+            "total_score": 79.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Cli_todo\\todo.py",
+            "linter_issues": 25,
+            "complexity_score": 82.5,
+            "total_score": 32.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Compute_IoU\\Compute_IoU.py",
+            "linter_issues": 8,
+            "complexity_score": 95.0,
+            "total_score": 79.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\convert pdf to text\\converter1.py",
+            "linter_issues": 24,
+            "complexity_score": 100,
+            "total_score": 52,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Convert_a_image_to_pdf\\convert_image_to_pdf.py",
+            "linter_issues": 1,
+            "complexity_score": 100,
+            "total_score": 98,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\convert_dictionary_to_python_object\\conversion.py",
+            "linter_issues": 7,
+            "complexity_score": 82.5,
+            "total_score": 68.5,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\convert_Imgs\\convertDynamic.py",
+            "linter_issues": 9,
+            "complexity_score": 100,
+            "total_score": 82,
+            "suggestions": [
+                "Fix indentation issues to maintain consistent style and readability."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\convert_Imgs\\JPGtoPNG.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\convert_Imgs\\PNGtoJPG.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Convert_JPEG_to_PNG\\converter_GUI.py",
+            "linter_issues": 6,
+            "complexity_score": 92.5,
+            "total_score": 80.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Convert_JPEG_to_PNG\\converter_terminal.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Convert_JSON_to_CSV\\converter.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Convert_numbers_to_word\\converter.py",
+            "linter_issues": 19,
+            "complexity_score": 0,
+            "total_score": 0,
+            "suggestions": [
+                "Correct the code formatting to adhere to PEP 8 standards, such as spaces around operators and after commas.",
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\convert_png_images_to_ico_format\\convert.py",
+            "linter_issues": 2,
+            "complexity_score": 100,
+            "total_score": 96,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\convert_png_images_to_ico_format\\convertUI.py",
+            "linter_issues": 10,
+            "complexity_score": 92.5,
+            "total_score": 72.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Convert_XML_To_JSON\\converter.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Countdown_timer\\main.py",
+            "linter_issues": 4,
+            "complexity_score": 90.0,
+            "total_score": 82.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Create_a_script_to_encrypt_files_and_folder\\encrypt.py",
+            "linter_issues": 1,
+            "complexity_score": 90.0,
+            "total_score": 88.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Create_a_simple_stopwatch\\stopwatch.py",
+            "linter_issues": 76,
+            "complexity_score": 93.75,
+            "total_score": 43.75,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Create_calculator_app\\calculator.py",
+            "linter_issues": 10,
+            "complexity_score": 94.16666666666667,
+            "total_score": 74.16666666666667,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Currency_converter\\cc.py",
+            "linter_issues": 27,
+            "complexity_score": 85.0,
+            "total_score": 35.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Decimal_to_binary_convertor_and_vice_versa\\decimal_to_binary.py",
+            "linter_issues": 2,
+            "complexity_score": 100,
+            "total_score": 96,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\detect_align_faces\\main.py",
+            "linter_issues": 0,
+            "complexity_score": 88.33333333333333,
+            "total_score": 88.33333333333333,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Diff_Util\\diff.py",
+            "linter_issues": 6,
+            "complexity_score": 100,
+            "total_score": 88,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Digital_clock\\digital_clock.py",
+            "linter_issues": 3,
+            "complexity_score": 95.0,
+            "total_score": 89.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Dns_record\\dns_record.py",
+            "linter_issues": 11,
+            "complexity_score": 100,
+            "total_score": 78,
+            "suggestions": [
+                "Fix indentation issues to maintain consistent style and readability."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Dominant_color\\find-color.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\dork_search_google\\main.py",
+            "linter_issues": 40,
+            "complexity_score": 80.0,
+            "total_score": 30.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\download GeeksForGeeks articles\\downloader.py",
+            "linter_issues": 0,
+            "complexity_score": 95.0,
+            "total_score": 95.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Download_images_from_website\\scrap-img.py",
+            "linter_issues": 1,
+            "complexity_score": 90.0,
+            "total_score": 88.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Drowsiness detection\\drowsiness detection.py",
+            "linter_issues": 152,
+            "complexity_score": 100,
+            "total_score": 50,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Drowsiness detection\\model.py",
+            "linter_issues": 76,
+            "complexity_score": 95.0,
+            "total_score": 45.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Duplicate files remover\\duplicatefileremover.py",
+            "linter_issues": 2,
+            "complexity_score": 90.0,
+            "total_score": 86.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\EasyVideoPlayer\\EasyVideoPlayer.py",
+            "linter_issues": 1,
+            "complexity_score": 75.0,
+            "total_score": 73.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Easy_cartoonify\\easy_cartoonify.py",
+            "linter_issues": 36,
+            "complexity_score": 80.0,
+            "total_score": 30.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Encrypt_and_decrypt_text\\aes_encode.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\export_mysql_to_csv_send_to_wocom\\export_mysql_data_to_csv.py",
+            "linter_issues": 4,
+            "complexity_score": 93.75,
+            "total_score": 85.75,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Extract_zip_files\\extract_zip_files.py",
+            "linter_issues": 10,
+            "complexity_score": 90.0,
+            "total_score": 70.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Fetch HTTP status code\\fetch_http_status_code.py",
+            "linter_issues": 15,
+            "complexity_score": 100,
+            "total_score": 70,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Fetch_and_store_tweets\\fetch_store_tweet.py",
+            "linter_issues": 6,
+            "complexity_score": 100,
+            "total_score": 88,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Fetch_current_weather\\fetch_current_weather.py",
+            "linter_issues": 31,
+            "complexity_score": 100,
+            "total_score": 50,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Fetch_open_ports\\fetch_open_port.py",
+            "linter_issues": 21,
+            "complexity_score": 100,
+            "total_score": 58,
+            "suggestions": [
+                "Fix indentation issues to maintain consistent style and readability."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Find_imdb_rating\\find_IMDb_rating.py",
+            "linter_issues": 26,
+            "complexity_score": 100,
+            "total_score": 50,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Find_out_hostname_and_ip_address\\Hostname_IPaddress.py",
+            "linter_issues": 6,
+            "complexity_score": 90.0,
+            "total_score": 78.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Games\\QuizGame.py",
+            "linter_issues": 8,
+            "complexity_score": 100,
+            "total_score": 84,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Geocoding\\geocoding.py",
+            "linter_issues": 3,
+            "complexity_score": 100,
+            "total_score": 94,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Get_meta_information_of_images\\author_utils.py",
+            "linter_issues": 30,
+            "complexity_score": 88.33333333333333,
+            "total_score": 38.33333333333333,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Get_meta_information_of_images\\get_meta_from_pic.py",
+            "linter_issues": 6,
+            "complexity_score": 92.5,
+            "total_score": 80.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Get_meta_information_of_images\\gps_utils.py",
+            "linter_issues": 30,
+            "complexity_score": 90.0,
+            "total_score": 40.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Get_wifi_password\\wifi.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\GUI Rock-Paper-Scissors Game\\Rock-Paper-Scissors Game.py",
+            "linter_issues": 40,
+            "complexity_score": 20.0,
+            "total_score": 0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Hashing_passwords\\hashing_passwords.py",
+            "linter_issues": 5,
+            "complexity_score": 100,
+            "total_score": 90,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Hello\\Hello.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Image_watermark\\watermark.py",
+            "linter_issues": 20,
+            "complexity_score": 90.0,
+            "total_score": 50.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Instagram_profile\\InstgramProfile.py",
+            "linter_issues": 0,
+            "complexity_score": 90.0,
+            "total_score": 90.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Instagram_profile\\main.py",
+            "linter_issues": 6,
+            "complexity_score": 92.5,
+            "total_score": 80.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Instagram_profile\\profilepic.py",
+            "linter_issues": 18,
+            "complexity_score": 35.0,
+            "total_score": 0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Internet_connection_check\\internet_connection_check.py",
+            "linter_issues": 26,
+            "complexity_score": 85.0,
+            "total_score": 35.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Language_translator\\translator.py",
+            "linter_issues": 5,
+            "complexity_score": 100,
+            "total_score": 90,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Leap_Year_Checker\\leapyear.py",
+            "linter_issues": 3,
+            "complexity_score": 100,
+            "total_score": 94,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\MasterMind\\Mastermind_GUIinterface.py",
+            "linter_issues": 111,
+            "complexity_score": 81.25,
+            "total_score": 31.25,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Merge_csv_files\\merge_csv_files.py",
+            "linter_issues": 2,
+            "complexity_score": 100,
+            "total_score": 96,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Merge_pdfs\\merge_pdfs.py",
+            "linter_issues": 0,
+            "complexity_score": 95.0,
+            "total_score": 95.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Movie Information Scraper\\movieInfoScraper.py",
+            "linter_issues": 3,
+            "complexity_score": 45.0,
+            "total_score": 39.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Multi_language_OCR\\multi_language_OCR.py",
+            "linter_issues": 3,
+            "complexity_score": 100,
+            "total_score": 94,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Network Usage Tracker\\network_usage_tracker.py",
+            "linter_issues": 89,
+            "complexity_score": 91.0,
+            "total_score": 41.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\News_website_scraper\\moneycontrol_scrapper.py",
+            "linter_issues": 14,
+            "complexity_score": 86.66666666666667,
+            "total_score": 58.66666666666667,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Number_guessing_game\\main.py",
+            "linter_issues": 1,
+            "complexity_score": 100,
+            "total_score": 98,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Organized_download_folder_with_different_categories\\file-sortor.py",
+            "linter_issues": 10,
+            "complexity_score": 80.0,
+            "total_score": 60.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Password_generator\\password_generator.py",
+            "linter_issues": 17,
+            "complexity_score": 93.33333333333333,
+            "total_score": 59.33333333333333,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\PDF to MP3\\PDF__TO__MP3.py",
+            "linter_issues": 36,
+            "complexity_score": 100,
+            "total_score": 50,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Plagarism_checker\\plag.py",
+            "linter_issues": 5,
+            "complexity_score": 91.66666666666667,
+            "total_score": 81.66666666666667,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Python_auto_draw\\python-auto-draw.py",
+            "linter_issues": 11,
+            "complexity_score": 100,
+            "total_score": 78,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Qr_code_generator\\generate_qrcode.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Random_password_generator\\python-password-generator.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Random_password_generator\\random_password_gen.py",
+            "linter_issues": 0,
+            "complexity_score": 80.0,
+            "total_score": 80.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Random_Wikipedia_Article\\wiki_random.py",
+            "linter_issues": 1,
+            "complexity_score": 100,
+            "total_score": 98,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Random_word_from_list\\Random_word_from_list.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Recursive_password_generator\\generator.py",
+            "linter_issues": 10,
+            "complexity_score": 92.5,
+            "total_score": 72.5,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Reduce_image_file_size\\reduce_image_size.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\RockPaperScissors_Game\\Rock_Paper_Scissors_Game.py",
+            "linter_issues": 109,
+            "complexity_score": 100,
+            "total_score": 50,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\S3_File_Upload\\main.py",
+            "linter_issues": 5,
+            "complexity_score": 85.0,
+            "total_score": 75.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Scrape_Hacker_News\\main.py",
+            "linter_issues": 13,
+            "complexity_score": 15.0,
+            "total_score": 0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Scrape_quotes\\quote_scraper.py",
+            "linter_issues": 43,
+            "complexity_score": 100,
+            "total_score": 50,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Scraping Medium Articles\\scraping_medium.py",
+            "linter_issues": 56,
+            "complexity_score": 86.25,
+            "total_score": 36.25,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Send_email_from_csv\\Sending_mail.py",
+            "linter_issues": 0,
+            "complexity_score": 93.33333333333333,
+            "total_score": 93.33333333333333,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Set_Alarm\\alarm.py",
+            "linter_issues": 19,
+            "complexity_score": 81.25,
+            "total_score": 43.25,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Shutdown_or_restart_your_device\\PowerOptions.py",
+            "linter_issues": 2,
+            "complexity_score": 80.0,
+            "total_score": 76.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Sine_Wave\\sine_wave.py",
+            "linter_issues": 9,
+            "complexity_score": 100,
+            "total_score": 82,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Snake Game\\snake_game.py",
+            "linter_issues": 12,
+            "complexity_score": 77.5,
+            "total_score": 53.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Snapshot_of_given_website\\snapshot_of_given_website.py",
+            "linter_issues": 2,
+            "complexity_score": 100,
+            "total_score": 96,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Solver_linear_equations\\linearEquations.py",
+            "linter_issues": 51,
+            "complexity_score": 100,
+            "total_score": 50,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Space_bullet_shooter_game\\space_bullet_shooter.py",
+            "linter_issues": 394,
+            "complexity_score": 94.375,
+            "total_score": 44.375,
+            "suggestions": [
+                "Fix indentation issues to maintain consistent style and readability.",
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Speaking_Dictionary\\SpeakingDictionary.py",
+            "linter_issues": 64,
+            "complexity_score": 92.5,
+            "total_score": 42.5,
+            "suggestions": [
+                "Correct the code formatting to adhere to PEP 8 standards, such as spaces around operators and after commas.",
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Speech_to_text\\speech_to_text.py",
+            "linter_issues": 20,
+            "complexity_score": 90.0,
+            "total_score": 50.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Speed_Game\\macOS\\main.py",
+            "linter_issues": 62,
+            "complexity_score": 89.66666666666667,
+            "total_score": 39.66666666666667,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Speed_Game\\windows\\main.py",
+            "linter_issues": 55,
+            "complexity_score": 89.66666666666667,
+            "total_score": 39.66666666666667,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Spell_checker\\spell_checker.py",
+            "linter_issues": 2,
+            "complexity_score": 100,
+            "total_score": 96,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Split_a_video_file_by_given_time_period\\videosplitter.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Split_File\\split_files.py",
+            "linter_issues": 6,
+            "complexity_score": 78.33333333333334,
+            "total_score": 66.33333333333334,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Split_folder_into_subfolders\\split_and_copy.py",
+            "linter_issues": 0,
+            "complexity_score": 90.0,
+            "total_score": 90.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\steganography\\dct.py",
+            "linter_issues": 1,
+            "complexity_score": 73.75,
+            "total_score": 71.75,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\steganography\\lsb.py",
+            "linter_issues": 1,
+            "complexity_score": 85.0,
+            "total_score": 83.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Store_emails_in_csv\\store_emails.py",
+            "linter_issues": 2,
+            "complexity_score": 80.0,
+            "total_score": 76.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\String_search_from_multiple_files\\findstring.py",
+            "linter_issues": 0,
+            "complexity_score": 70.0,
+            "total_score": 70.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\telegram_bot\\main.py",
+            "linter_issues": 7,
+            "complexity_score": 93.75,
+            "total_score": 79.75,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Terminal_Based_Hangman_Game\\hangman.py",
+            "linter_issues": 20,
+            "complexity_score": 75.0,
+            "total_score": 35.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Terminal_progress_bar_with_images_resizing\\progress_bar_ with_images_resizing.py",
+            "linter_issues": 0,
+            "complexity_score": 85.0,
+            "total_score": 85.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Textfile_analysis\\textfile_analysis.py",
+            "linter_issues": 11,
+            "complexity_score": 100,
+            "total_score": 78,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\text_to_morse_code\\text_to_morse_code.py",
+            "linter_issues": 3,
+            "complexity_score": 100,
+            "total_score": 94,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Text_to_speech\\txtToSpeech.py",
+            "linter_issues": 5,
+            "complexity_score": 100,
+            "total_score": 90,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Tic_tac_toe\\tic_tac_toe.py",
+            "linter_issues": 5,
+            "complexity_score": 85.0,
+            "total_score": 75.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Tic_tac_toe_with_ai\\tic-tac-toe-AI.py",
+            "linter_issues": 461,
+            "complexity_score": 79.375,
+            "total_score": 29.375,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Time_to_load_website\\time_to_load_website.py",
+            "linter_issues": 1,
+            "complexity_score": 85.0,
+            "total_score": 83.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Todo_app\\app.py",
+            "linter_issues": 5,
+            "complexity_score": 89.0,
+            "total_score": 79.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Unique_words_in_a_file\\unique.py",
+            "linter_issues": 5,
+            "complexity_score": 100,
+            "total_score": 90,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Unstructured Supplemenrary  Service Data\\ussdtim.py",
+            "linter_issues": 412,
+            "complexity_score": 82.22222222222223,
+            "total_score": 32.22222222222223,
+            "suggestions": [
+                "Fix indentation issues to maintain consistent style and readability.",
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Website_blocker\\website_blocker.py",
+            "linter_issues": 16,
+            "complexity_score": 100,
+            "total_score": 68,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Website_blocker\\website_unblocker.py",
+            "linter_issues": 15,
+            "complexity_score": 100,
+            "total_score": 70,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\app.py",
+            "linter_issues": 11,
+            "complexity_score": 80.0,
+            "total_score": 58.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\utils\\comparison.py",
+            "linter_issues": 2,
+            "complexity_score": 95.0,
+            "total_score": 91.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\utils\\model.py",
+            "linter_issues": 15,
+            "complexity_score": 47.5,
+            "total_score": 17.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\utils\\prepare.py",
+            "linter_issues": 1,
+            "complexity_score": 100,
+            "total_score": 98,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\utils\\summarize.py",
+            "linter_issues": 3,
+            "complexity_score": 85.0,
+            "total_score": 79.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\utils\\test.py",
+            "linter_issues": 0,
+            "complexity_score": 95.0,
+            "total_score": 95.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\utils\\train.py",
+            "linter_issues": 4,
+            "complexity_score": 95.0,
+            "total_score": 87.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\utils\\utils.py",
+            "linter_issues": 0,
+            "complexity_score": 75.0,
+            "total_score": 75.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_page_summation\\utils\\__init__.py",
+            "linter_issues": 0,
+            "complexity_score": 100,
+            "total_score": 100,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Web_scraping_a_youtube_comment\\webscrapindcomment.py",
+            "linter_issues": 10,
+            "complexity_score": 100,
+            "total_score": 80,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\whatsapp_Bot\\main.py",
+            "linter_issues": 3,
+            "complexity_score": 100,
+            "total_score": 94,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Wifi_windows_password_displayer\\main.py",
+            "linter_issues": 9,
+            "complexity_score": 90.0,
+            "total_score": 72.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Wikipedia_search_wordcloud\\wiki-search-cloud.py",
+            "linter_issues": 3,
+            "complexity_score": 93.33333333333333,
+            "total_score": 87.33333333333333,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Write_a_script_to_download_a_random_image_from_unsplash_and_set_it_as_wallpaper\\background_linux.py",
+            "linter_issues": 0,
+            "complexity_score": 95.0,
+            "total_score": 95.0,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Write_a_script_to_download_a_random_image_from_unsplash_and_set_it_as_wallpaper\\background_windows.py",
+            "linter_issues": 4,
+            "complexity_score": 93.33333333333333,
+            "total_score": 85.33333333333333,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Write_script_to_compress_folder_and_files\\zipfiles.py",
+            "linter_issues": 1,
+            "complexity_score": 90.0,
+            "total_score": 88.0,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Write_script_to_move_files_into_alphabetically_ordered_folder\\main.py",
+            "linter_issues": 3,
+            "complexity_score": 87.5,
+            "total_score": 81.5,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\XKCD_downloader\\xkcd_dowloader.py",
+            "linter_issues": 7,
+            "complexity_score": 100,
+            "total_score": 86,
+            "suggestions": []
+        },
+        {
+            "filename": "D:\\Git\\python-mini-projects\\projects\\Zip_Bruter\\zipbruter.py",
+            "linter_issues": 3,
+            "complexity_score": 87.5,
+            "total_score": 81.5,
+            "suggestions": [
+                "Consider breaking long lines to improve readability and follow PEP 8."
+            ]
+        }
+    ]
+}
