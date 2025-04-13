@@ -3,3 +3,4 @@ radon
 bandit
 gitpython
 streamlit
+pylint
