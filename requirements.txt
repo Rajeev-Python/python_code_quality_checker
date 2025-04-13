@@ -1,0 +1,5 @@
+flake8
+radon
+bandit
+gitpython
+streamlit
