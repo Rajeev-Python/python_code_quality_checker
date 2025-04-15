@@ -1,61 +1,43 @@
-def generate_suggestions(issues):
+def generate_suggestions(lint_results):
     suggestions = []
+    suggestion_map = {
+        "line too long": ("Break long lines into shorter segments for better readability.", "🟡 Style"),
+        "unused import": ("Remove unused imports to clean up the code.", "🟡 Style"),
+        "imported but unused": ("Clean up imports that are never used.", "🟡 Style"),
+        "undefined name": ("Make sure all variables and functions are defined before use.", "🔴 Error"),
+        "missing whitespace": ("Add proper whitespace around operators or punctuation.", "🟡 Style"),
+        "missing whitespace after": ("Ensure there's a space after commas, colons, or semicolons.", "🟡 Style"),
+        "multiple statements": ("Avoid writing multiple statements on one line.", "🟡 Style"),
+        "comparison with None": ("Use `is None` or `is not None` instead of `==` or `!=`.", "🟡 Style"),
+        "comparison with True": ("Use `if var:` instead of `if var == True`.", "🟡 Style"),
+        "comparison with False": ("Use `if not var:` instead of `if var == False`.", "🟡 Style"),
+        "indentation": ("Fix indentation to match Python's recommended 4-space standard.", "🟡 Style"),
+        "expected 2 blank lines": ("Add two blank lines before top-level definitions.", "🟡 Style"),
+        "unexpected spaces": ("Remove unnecessary spaces around brackets or braces.", "🟡 Style"),
+        "trailing whitespace": ("Remove whitespace at the end of lines.", "🟡 Style"),
+        "redefined function": ("Avoid redefining functions or variables with the same name.", "🟠 Code Smell"),
+        "too many local variables": ("Refactor functions with too many variables.", "🟠 Complexity"),
+        "too many arguments": ("Simplify functions with many arguments or use `*args`/`**kwargs`.", "🟠 Complexity"),
+        "too many branches": ("Consider simplifying functions with many branches.", "🟠 Complexity"),
+        "too many return statements": ("Avoid excessive return statements in one function.", "🟠 Complexity"),
+        "too complex": ("Simplify complex functions or split them into smaller ones.", "🔴 Complexity"),
+        "missing function docstring": ("Add docstrings to explain what each function does.", "🟡 Style"),
+        "missing module docstring": ("Add a docstring at the top of your module.", "🟡 Style"),
+        "missing class docstring": ("Include docstrings to describe your class purpose.", "🟡 Style"),
+        "attribute-defined-outside-init": ("Define instance attributes inside `__init__()`.", "🔴 Error"),
+        "broad-except": ("Avoid catching all exceptions; be specific.", "🔴 Error"),
+        "bare-except": ("Always catch specific exceptions instead of using bare `except:`.", "🔴 Error"),
+        "no-self-use": ("Convert methods that don't use `self` to static methods.", "🟡 Style"),
+    }
 
-    # Long line (E501) - Lines that exceed the maximum allowed line length
-    for issue in issues:
-        if "E501" in issue:
-            suggestions.append("Consider breaking long lines to improve readability and follow PEP 8.")
+    seen = set()
+    for issue in lint_results:
+        for keyword, (message, level) in suggestion_map.items():
+            if keyword in issue.lower() and keyword not in seen:
+                suggestions.append(f"{level} - {message}")
+                seen.add(keyword)
 
-        # Unused import (W0611) - Unused imports in the code
-        elif "W0611" in issue:
-            suggestions.append("Remove unused imports to clean up the code and improve readability.")
+    if not suggestions:
+        suggestions.append("✅ Code looks clean. Great job!")
 
-        # Unused variable (W0612) - A variable is defined but never used
-        elif "W0612" in issue:
-            suggestions.append("Remove unused variables to reduce clutter and prevent confusion.")
-
-        # Redundant comparison (W0107) - Unnecessary comparison like 'if x == True'
-        elif "W0107" in issue:
-            suggestions.append("Avoid redundant comparisons, like `if x == True`, just use `if x`.")
-
-        # Indentation issues (E111, E114, E121) - Improper indentation
-        elif any(code in issue for code in ["E111", "E114", "E121"]):
-            suggestions.append("Fix indentation issues to maintain consistent style and readability.")
-
-        # Too many arguments (R0913) - Function has too many arguments
-        elif "R0913" in issue:
-            suggestions.append("Consider refactoring functions with too many arguments. Try to use fewer arguments or group related parameters into a class.")
-
-        # Too many branches (R0912) - Function has too many conditional branches (if-else)
-        elif "R0912" in issue:
-            suggestions.append("Simplify functions with excessive conditional branches. Break them down into smaller functions or use polymorphism if needed.")
-
-        # Cyclomatic complexity (C1001) - High cyclomatic complexity
-        elif "C1001" in issue:
-            suggestions.append("High cyclomatic complexity detected. Consider refactoring the function to simplify logic and improve readability.")
-
-        # Missing docstring (C0111) - Function/method/class does not have a docstring
-        elif "C0111" in issue:
-            suggestions.append("Add docstrings to your functions and classes to improve code documentation and maintainability.")
-
-        # Function is too complex (R0911) - Function has too many lines of code
-        elif "R0911" in issue:
-            suggestions.append("Refactor functions that are too large. Break them down into smaller, more manageable pieces.")
-
-        # Import order issue (F0401) - Import statement order is incorrect
-        elif "F0401" in issue:
-            suggestions.append("Ensure imports are sorted according to PEP 8: standard libraries first, followed by third-party libraries, and then your local modules.")
-
-        # Missing type annotations (W0201) - Variables lack type hints
-        elif "W0201" in issue:
-            suggestions.append("Add type annotations to function arguments and return values for better clarity and static analysis.")
-
-        # Inconsistent naming (C0103) - Variables or functions do not follow naming conventions
-        elif "C0103" in issue:
-            suggestions.append("Ensure your variables, functions, and methods follow PEP 8 naming conventions (e.g., lowercase_with_underscores for variables).")
-
-        # Incorrect formatting (E701) - Code does not follow PEP 8 formatting guidelines
-        elif "E701" in issue:
-            suggestions.append("Correct the code formatting to adhere to PEP 8 standards, such as spaces around operators and after commas.")
-
-    return list(set(suggestions))
+    return suggestions

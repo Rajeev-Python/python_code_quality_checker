@@ -4,3 +4,4 @@ bandit
 gitpython
 streamlit
 pylint
+tqdm
